@@ -1,4 +1,4 @@
-RoboWar February 
+RoboWar 
 Developed a combat bot weighing 8kg for IIT Kanpur and IIT Delhi. I worked in the electrical domain for this project and a lot through the process. 
 
 Bot Bolt, NIT Jalandhar
@@ -9,6 +9,14 @@ Cosmo Clench, IIT Delhi
 
 Science-a-Thon, LPU
 • Won an innovation challenge with the idea of an Autonomous Road Patching Bot. Patent for this project has been filed.
+This project involves identification and measurement of depth of potholes with the help of ultrasonic sensors/lidar(based on use case) and camera which then triggers flow of a compound mix through a pipe. After the pothole
+has been filled it is levelled using a roller in the front of the bot.
+A minimal prototype has been developed and video is in the link below.
+
+GUJCOST
+This is an ongoing competition under the gujarat government in which we are working on developement of a hexapod(6-legged) robot which can provide first aid care in cases of natural disasters like earthquake.
+Currently we are in the stage 2 of the competition (Prototype Submission). A video has been attached in the link below.
+
 
 Note: I am working on 2 other Ideas however since the patent for them hasn't been filed yet, I can not disclose the particulars. 
 
